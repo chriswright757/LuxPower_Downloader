@@ -68,7 +68,7 @@ namespace LuxPower_Downloader
                     }
                 }
             }
-            Console.WriteLine("Retived Power Data");
+            Console.WriteLine("retrieved Power Data");
         }
     }
 }

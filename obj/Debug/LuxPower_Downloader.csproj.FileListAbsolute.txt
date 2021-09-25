@@ -8,3 +8,13 @@ D:\GitRepo\LuxPower_Downloader\LuxPower_Downloader\obj\Debug\LuxPower_Downloader
 D:\GitRepo\LuxPower_Downloader\LuxPower_Downloader\obj\Debug\LuxPower_Downloader.csproj.CopyComplete
 D:\GitRepo\LuxPower_Downloader\LuxPower_Downloader\obj\Debug\LuxPower_Downloader.exe
 D:\GitRepo\LuxPower_Downloader\LuxPower_Downloader\obj\Debug\LuxPower_Downloader.pdb
+D:\GitRepo\LuxPower_Downloader\bin\Debug\LuxPower_Downloader.exe.config
+D:\GitRepo\LuxPower_Downloader\bin\Debug\LuxPower_Downloader.exe
+D:\GitRepo\LuxPower_Downloader\bin\Debug\LuxPower_Downloader.pdb
+D:\GitRepo\LuxPower_Downloader\bin\Debug\WebDriver.dll
+D:\GitRepo\LuxPower_Downloader\bin\Debug\WebDriver.xml
+D:\GitRepo\LuxPower_Downloader\obj\Debug\LuxPower_Downloader.csproj.AssemblyReference.cache
+D:\GitRepo\LuxPower_Downloader\obj\Debug\LuxPower_Downloader.csproj.CoreCompileInputs.cache
+D:\GitRepo\LuxPower_Downloader\obj\Debug\LuxPower_Downloader.csproj.CopyComplete
+D:\GitRepo\LuxPower_Downloader\obj\Debug\LuxPower_Downloader.exe
+D:\GitRepo\LuxPower_Downloader\obj\Debug\LuxPower_Downloader.pdb

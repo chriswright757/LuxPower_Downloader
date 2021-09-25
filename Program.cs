@@ -34,7 +34,6 @@ namespace LuxPower_Downloader
                 {
                     Console.WriteLine(dialog.SelectedPath);
                     DownloadDirectory = dialog.SelectedPath;
-
                 }
             }
 
@@ -69,9 +68,7 @@ namespace LuxPower_Downloader
                     }
                 }
             }
-
             Console.WriteLine("Retived Power Data");
-
         }
     }
 }
